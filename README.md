@@ -7,7 +7,7 @@
 * Every image gives a little detail about what type of photography the photo falls in. 
 * The smooth scroll facility is provided where the user is scrolled down in smoothly.
 
-# ------------------------------------------------------------------------------
+# ----------------------------------------------------------
 
 ## Features
    * Resposive on all devices
@@ -15,7 +15,7 @@
    * About
    * Contact form
    
-# ------------------------------------------------------------------------------
+# ----------------------------------------------------------
 
 ## Languages
 
